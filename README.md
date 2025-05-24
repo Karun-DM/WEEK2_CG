@@ -9,7 +9,7 @@ understanding the principles of Object-Oriented Programming in Java.
   - 01 - Extra String Practice
   - 02 - Java Constructors, Instance vs Class Variables
   - 03 - this, static, final key words and instance methods
-  - 04 - Inheritance/Level - 1
+  - 04 - Inheritance
   
   
 - Prerequisites
